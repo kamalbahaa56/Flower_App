@@ -73,7 +73,7 @@ class _ResetPasswordScreenState extends State<ResetPasswordScreen> {
                     }
 
                   }, 
-                  child:islaoading? CircularProgressIndicator(color: Colors.white,): Text('Reset password')
+                  child:islaoading? CircularProgressIndicator(color: Colors.white,): Text('ResetS passwords')
                   ),
             ],
           ),
