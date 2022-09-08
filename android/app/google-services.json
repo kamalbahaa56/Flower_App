@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164593485015",
+    "project_id": "flower-app-2cc7b",
+    "storage_bucket": "flower-app-2cc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164593485015:android:20ccce4563aaee2cc9dc92",
+        "android_client_info": {
+          "package_name": "com.example.ecomirce_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164593485015-5auhg21ar7jvq7pckol83cqrdhkde98m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-jjAwtZCntps2_ERmOutdC_feuXTU-0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164593485015-5auhg21ar7jvq7pckol83cqrdhkde98m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
