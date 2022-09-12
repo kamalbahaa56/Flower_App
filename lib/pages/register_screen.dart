@@ -241,7 +241,7 @@ class _RegisterState extends State<Register> {
                         shape: BoxShape.circle,
                         color: Colors.grey,
                       ),
-                      width: double.infinity,
+                      //width: double.infinity,
                       child: Stack(
                         alignment: AlignmentDirectional.center,
                         children: [
@@ -261,8 +261,8 @@ class _RegisterState extends State<Register> {
                                   ),
                                 ),
                           Positioned(
-                            bottom: 0,
-                            left: 220,
+                            bottom: -10,
+                            left: 85,
                             child: IconButton(
                                 onPressed: () {
                                   // uploadImageScreen();
